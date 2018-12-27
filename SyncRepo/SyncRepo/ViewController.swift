@@ -18,7 +18,9 @@ class ViewController: UIViewController {
     }
 
     func helloWorld() {
+        print("1 update")
         print("Hello world")
+        print("1 end update")
     }
     
     func goodbyeSyncIssues() {
