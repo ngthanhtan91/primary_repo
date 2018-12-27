@@ -28,6 +28,7 @@ class ViewController: UIViewController {
     func testing() {
         print("Testing")
         print("1 testing")
+        print("2 Testing")
     }
 }
 
