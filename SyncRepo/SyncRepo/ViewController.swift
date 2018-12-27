@@ -21,6 +21,9 @@ class ViewController: UIViewController {
         print("2 update")
         print("Hello world")
         print("2 end update")
+        print("1 update")
+        print("Hello world")
+        print("1 end update")
     }
     
     func goodbyeSyncIssues() {
