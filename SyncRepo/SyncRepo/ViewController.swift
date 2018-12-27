@@ -20,6 +20,10 @@ class ViewController: UIViewController {
     func helloWorld() {
         
     }
+    
+    func goodbyeSyncIssues() {
+        print("Good bye issues")
+    }
 
 }
 
