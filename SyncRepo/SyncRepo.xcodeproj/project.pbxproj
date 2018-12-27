@@ -15,7 +15,7 @@
 		193C47F321D47BF2001969F7 /* SyncRepoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 193C47F221D47BF2001969F7 /* SyncRepoTests.swift */; };
 		193C47FE21D47BF2001969F7 /* SyncRepoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 193C47FD21D47BF2001969F7 /* SyncRepoUITests.swift */; };
 		193C480C21D486D3001969F7 /* People.swift in Sources */ = {isa = PBXBuildFile; fileRef = 193C480B21D486D3001969F7 /* People.swift */; };
-		199346EC21D4BB420083E105 /* MotoBike.swift in Sources */ = {isa = PBXBuildFile; fileRef =
+        199346EA21D4BAC80083E105 /* MotoBike.swift in Sources */ = {isa = PBXBuildFile; fileRef = 199346E921D4BAC80083E105 /* MotoBike.swift */; };
 		199346EA21D4BAC80083E105 /* Car.swift in Sources */ = {isa = PBXBuildFile; fileRef = 199346E921D4BAC80083E105 /* Car.swift */; };
 /* End PBXBuildFile section */
 
@@ -105,7 +105,6 @@
 			children = (
 				193C47DD21D47BEF001969F7 /* AppDelegate.swift */,
 				193C47DF21D47BEF001969F7 /* ViewController.swift */,
-				199346E921D4BAC80083E105 /* Car.swift */,
 				193C480B21D486D3001969F7 /* People.swift */,
 				199346EB21D4BB420083E105 /* MotoBike.swift */,
 				193C47E121D47BEF001969F7 /* Main.storyboard */,
@@ -267,7 +266,6 @@
 			files = (
 				193C47E021D47BEF001969F7 /* ViewController.swift in Sources */,
 				193C480C21D486D3001969F7 /* People.swift in Sources */,
-				199346EA21D4BAC80083E105 /* Car.swift in Sources */,
 				193C47DE21D47BEF001969F7 /* AppDelegate.swift in Sources */,
 				199346EC21D4BB420083E105 /* MotoBike.swift in Sources */,
 			);
