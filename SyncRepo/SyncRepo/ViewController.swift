@@ -25,5 +25,8 @@ class ViewController: UIViewController {
         print("Good bye issues")
     }
 
+    func testing() {
+        print("Testing")
+    }
 }
 
