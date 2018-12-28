@@ -20,6 +20,10 @@ class ViewController: UIViewController {
     func helloWorld() {
         print("2 update")
         print("Hello world")
+        print("Hello world")
+        print("Hello world")
+        print("Hello world")
+        print("Hello world")
         print("2 end update")
         print("1 update")
         print("Hello world")
@@ -29,6 +33,9 @@ class ViewController: UIViewController {
     func goodbyeSyncIssues() {
         print("1 update")
         print("Good bye issues")
+        print("Hello world")
+        print("Hello world")
+        print("Hello world")
         print("1 end update")
         print("2 update")
         print("Good bye issues")
