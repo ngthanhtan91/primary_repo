@@ -40,5 +40,9 @@ class ViewController: UIViewController {
         print("1 testing")
         print("2 Testing")
     }
+    
+    func printStaging() {
+        print("Staging")
+    }
 }
 
