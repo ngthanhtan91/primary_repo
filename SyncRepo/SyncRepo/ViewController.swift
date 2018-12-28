@@ -47,6 +47,7 @@ class ViewController: UIViewController {
         print("1 testing")
         print("2 Testing")
         print("3 Testing")
+        print("4 Testing")
     }
     
     func printStaging() {
