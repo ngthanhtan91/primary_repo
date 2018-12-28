@@ -30,6 +30,9 @@ class ViewController: UIViewController {
         print("1 update")
         print("Good bye issues")
         print("1 end update")
+        print("2 update")
+        print("Good bye issues")
+        print("2 end update")
     }
 
     func testing() {
