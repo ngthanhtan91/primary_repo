@@ -16,6 +16,7 @@ class ViewController: UIViewController {
         
         print("hello world")
         print("Create feature/test3 branch")
+        print("Create feature/test4 branch")
     }
 
     func helloWorld() {
