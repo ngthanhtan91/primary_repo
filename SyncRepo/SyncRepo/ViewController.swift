@@ -42,6 +42,7 @@ class ViewController: UIViewController {
     }
     
     func testing2() {
+        print("pre Testing")
         print("Testing")
         print("1 testing")
         print("2 Testing")
