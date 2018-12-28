@@ -15,6 +15,8 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view, typically from a nib.
         
         print("hello world")
+        print("Create feature/test3 branch")
+        print("Create feature/test4 branch")
     }
 
     func helloWorld() {
@@ -47,5 +49,19 @@ class ViewController: UIViewController {
         print("1 testing")
         print("2 Testing")
     }
+    
+    func testing2() {
+        print("pre Testing")
+        print("Testing")
+        print("1 testing")
+        print("2 Testing")
+        print("3 Testing")
+        print("4 Testing")
+    }
+    
+    func printStaging() {
+        print("Staging")
+    }
+    
 }
 
