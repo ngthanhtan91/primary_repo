@@ -31,6 +31,7 @@ class ViewController: UIViewController {
         print("Hello world")
         print("1 end update")
         print("mike makes a commit")
+        print("testing tags)
     }
     
     func goodbyeSyncIssues() {
