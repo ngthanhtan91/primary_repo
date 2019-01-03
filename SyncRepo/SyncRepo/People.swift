@@ -9,5 +9,7 @@
 import Foundation
 
 class People {
-    
+    func testing() {
+        print("testing")
+    }
 }
