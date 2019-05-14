@@ -14,8 +14,8 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         print("Hello rebase first")
-        print("Hello world")
-        print("Hello rebase")
+        print("Hello world 2")
+        print("Hello rebase 2")
     }
 
 
