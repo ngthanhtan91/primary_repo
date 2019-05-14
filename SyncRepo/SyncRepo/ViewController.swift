@@ -16,6 +16,7 @@ class ViewController: UIViewController {
         print("Hello rebase first")
         print("Hello world 2")
         print("Hello rebase 2")
+        print("Hello world rebase")
     }
 
 
